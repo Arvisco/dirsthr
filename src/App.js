@@ -580,7 +580,7 @@ export default function App() {
         <div className="header-content">
           <div className="arabic-text">بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ</div>
           <h1 className="main-title">DIRS THR</h1>
-          <div className="subtitle">🌙 Gacha Nominal THR Lebaran 1446 H 🌙</div>
+          <div className="subtitle">🌙  Nominal THR Lebaran 1447 H 🌙</div>
         </div>
         <div className="header-decorations">
           <KetupatSVG size={40} rotation={20} color="#f4c430" opacity={0.7} />
