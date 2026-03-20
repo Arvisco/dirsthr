@@ -654,7 +654,7 @@ export default function App() {
           <KetupatSVG size={20} rotation={-20} color="#f4c430" opacity={0.3} />
           <KetupatSVG size={25} rotation={10} color="#2ecc71" opacity={0.4} />
         </div>
-        <p>Selamat Hari Raya Idul Fitri 1446 H</p>
+        <p>Selamat Hari Raya Idul Fitri 1447 H</p>
         <p className="footer-sub">Minal Aidin Wal Faizin 🌙⭐</p>
       </footer>
 
