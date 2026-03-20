@@ -399,9 +399,9 @@ const SpinWheel = ({ onResult, spinsLeft, spinning, setSpinning, totalRotation, 
         ) : spinsLeft === 0 ? (
           <span>✅ Selesai</span>
         ) : isBonusMode ? (
-          <span>🎰🎰 BONUS SPIN! ({spinsLeft} tersisa)</span>
+          <span>🎰🎰 BONUS SPIN!</span>
         ) : (
-          <span>🎰 PUTAR! ({spinsLeft} tersisa)</span>
+          <span>🎰 PUTAR!</span>
         )}
       </button>
     </div>
@@ -595,7 +595,7 @@ export default function App() {
       {/* Bonus mode banner */}
       {isBonusMode && (
         <div className="bonus-banner">
-          🎰🎰 MODE BONUS AKTIF — Wheel berubah! SPIN 2x tidak ada lagi 🎰🎰
+          🎰🎰 2X SPIN 🎰🎰
         </div>
       )}
 
